@@ -1,5 +1,5 @@
 # series-temporais
- Trabalho desenvolvido para avaliação final do curso de Séries Temporais da FGV EMAp pelos alunos George Vaz, Luan Carvalho, [Paloma Borges](https://github.com/palomavb) e Yonathan Ghermann.
+ Trabalho desenvolvido para avaliação final do curso de Séries Temporais da FGV EMAp pelos alunos [George Vaz](https://github.com/GeorgeRV), [Luan Carvalho](https://github.com/Luan-vht3), [Paloma Borges](https://github.com/palomavb) e Yonathan Ghermann.
 
 # Objetivo
 
